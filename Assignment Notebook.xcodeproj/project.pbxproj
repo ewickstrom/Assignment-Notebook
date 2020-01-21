@@ -14,6 +14,7 @@
 		A0E75C9D23D0C970003DE2C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0E75C9B23D0C970003DE2C7 /* Main.storyboard */; };
 		A0E75C9F23D0C978003DE2C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E75C9E23D0C978003DE2C7 /* Assets.xcassets */; };
 		A0E75CA223D0C978003DE2C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0E75CA023D0C978003DE2C7 /* LaunchScreen.storyboard */; };
+		A0E75CAA23D7603D003DE2C7 /* Assignments.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E75CA923D7603D003DE2C7 /* Assignments.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A0E75C9E23D0C978003DE2C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0E75CA123D0C978003DE2C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0E75CA323D0C978003DE2C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0E75CA923D7603D003DE2C7 /* Assignments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignments.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A0E75C9723D0C970003DE2C7 /* MasterViewController.swift */,
 				A0E75C9923D0C970003DE2C7 /* DetailViewController.swift */,
 				A0E75C9B23D0C970003DE2C7 /* Main.storyboard */,
+				A0E75CA923D7603D003DE2C7 /* Assignments.swift */,
 				A0E75C9E23D0C978003DE2C7 /* Assets.xcassets */,
 				A0E75CA023D0C978003DE2C7 /* LaunchScreen.storyboard */,
 				A0E75CA323D0C978003DE2C7 /* Info.plist */,
@@ -144,6 +147,7 @@
 				A0E75C9423D0C970003DE2C7 /* AppDelegate.swift in Sources */,
 				A0E75C9623D0C970003DE2C7 /* SceneDelegate.swift in Sources */,
 				A0E75C9823D0C970003DE2C7 /* MasterViewController.swift in Sources */,
+				A0E75CAA23D7603D003DE2C7 /* Assignments.swift in Sources */,
 				A0E75C9A23D0C970003DE2C7 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
