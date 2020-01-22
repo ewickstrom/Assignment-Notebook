@@ -81,7 +81,11 @@
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="Assignment Details" id="mOI-FS-AaM"/>
                     <connections>
+                        <outlet property="descriptionTextField" destination="Yv1-0A-Pa7" id="SYe-cP-8mF"/>
                         <outlet property="detailDescriptionLabel" destination="0XM-y9-sOw" id="deQ-Na-JPF"/>
+                        <outlet property="dueDateTextField" destination="77r-aC-cdp" id="cch-6M-8tw"/>
+                        <outlet property="subjectTextField" destination="Hiu-hW-6ej" id="zvK-Pd-buN"/>
+                        <outlet property="titleTextField" destination="62U-Fy-CZY" id="oHe-et-Xsn"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FJe-Yq-33r" sceneMemberID="firstResponder"/>
